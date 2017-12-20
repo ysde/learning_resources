@@ -35,3 +35,6 @@ Other resources want to be shared and added on this repo are welcomed :)
 * Log Collect
 	* [Graylog](https://www.graylog.org/)
 	* [Sengry](https://docs.sentry.io/)
+
+* Docker
+	* [Docker-Registry-Manager](https://github.com/snagles/docker-registry-manager)
