@@ -17,10 +17,15 @@ Other resources want to be shared and added on this repo are welcomed :)
 
 [Modern Web and App Programming](https://nthu-datalab.github.io/ss/index.html)
  
+* Database
+	* [Flyway -> database migration](https://flywaydb.org/)
  
 * Scala
 	* [https://www.scala-exercises.org/]()
 	* [https://scala.epfl.ch/]()
+        * [scala config parsing](https://github.com/pureconfig/pureconfig)
+        * [scalaTest -> test framework](http://www.scalatest.org/)
+	* [Monix -> future wrapper](https://monix.io/)
 
 * Kafka
 	* [https://kafka.apache.org/documentation/]()
@@ -38,3 +43,6 @@ Other resources want to be shared and added on this repo are welcomed :)
 
 * Docker
 	* [Docker-Registry-Manager](https://github.com/snagles/docker-registry-manager)
+
+* Ansible
+        * [ansible lint](https://github.com/willthames/ansible-lint)
