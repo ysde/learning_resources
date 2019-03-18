@@ -26,6 +26,7 @@ Other resources want to be shared and added on this repo are welcomed :)
         * [scala config parsing](https://github.com/pureconfig/pureconfig)
         * [scalaTest -> test framework](http://www.scalatest.org/)
 	* [Monix -> future wrapper](https://monix.io/)
+	* [SBT Native Packager](https://github.com/sbt/sbt-native-packager)
 
 * Kafka
 	* [https://kafka.apache.org/documentation/]()
