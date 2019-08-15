@@ -1,0 +1,4 @@
+# Redis docker container sample
+
+* sh run_redis.sh to start a redis server
+* sh client_to_redis.sh to use redis-cli connecting to redis server
