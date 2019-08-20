@@ -10,9 +10,12 @@ cp redis.conf /tmp/
 
 docker rm -f $CONTAINER_NAME
 
-# mac version
-docker run --net=host --name $CONTAINER_NAME -d \
+# linux version
+docker run --name $CONTAINER_NAME -d \
 -v /tmp/data:/data \
 -v /tmp/redis.conf:${CONTAINER_CONF_PATH} \
 redis \
 redis-server ${CONTAINER_CONF_PATH}
+
+# mac version
+docker run --name $CONTAINER_NAME -d -p 6379:6379 redis
