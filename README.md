@@ -19,7 +19,8 @@ Other resources want to be shared and added on this repo are welcomed :)
  
 * Database
 	* [Flyway -> database migration](https://flywaydb.org/)
- 
+* Python
+	* [https://developers.google.com/edu/python]()
 * Scala
 	* [https://www.scala-exercises.org/]()
 	* [https://scala.epfl.ch/]()
